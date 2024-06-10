@@ -5,4 +5,14 @@
     - Use OpenAI / AWS Bedrock
     - Spring Boot AI / LangChain4J
     - MongoDB vector
+    
 # Tech stack
+
+    Models: AWS Bedrock / Azure / OpenAI
+    Visual Tool: Flowise
+    Run/Test Local Models: ollama / LM Studio
+    VectorDB: MongoDB / Astra
+    Java:
+        LangChain4J: LangChain4J, GitHub
+        Spring Boot AI: Spring Boot AI, Spring AI Bedrock, Titan embedings
+        Class Configuration
